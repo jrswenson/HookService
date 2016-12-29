@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookService", "HookService\HookService.csproj", "{0EB08629-7C49-4B69-88C2-E60DE0CFB1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookLib", "HookLib\HookLib.csproj", "{CE4F8193-D373-499D-9425-56F9C6DB8B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookRemote", "HookRemote\HookRemote.csproj", "{04D2DB94-ECE3-48F6-BDAE-ED398278E385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookWinUser", "HookWinUser\HookWinUser.csproj", "{3801D666-95EB-407B-A0F3-460FD985F530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB08629-7C49-4B69-88C2-E60DE0CFB1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB08629-7C49-4B69-88C2-E60DE0CFB1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB08629-7C49-4B69-88C2-E60DE0CFB1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB08629-7C49-4B69-88C2-E60DE0CFB1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4F8193-D373-499D-9425-56F9C6DB8B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4F8193-D373-499D-9425-56F9C6DB8B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4F8193-D373-499D-9425-56F9C6DB8B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4F8193-D373-499D-9425-56F9C6DB8B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D2DB94-ECE3-48F6-BDAE-ED398278E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D2DB94-ECE3-48F6-BDAE-ED398278E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D2DB94-ECE3-48F6-BDAE-ED398278E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D2DB94-ECE3-48F6-BDAE-ED398278E385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3801D666-95EB-407B-A0F3-460FD985F530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3801D666-95EB-407B-A0F3-460FD985F530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3801D666-95EB-407B-A0F3-460FD985F530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3801D666-95EB-407B-A0F3-460FD985F530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
